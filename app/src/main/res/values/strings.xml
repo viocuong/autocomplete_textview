@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">autocomplete_tv</string>
+    <string-array name="country">
+        <item>Thai binh</item>
+        <item>Thanh hoa</item>
+        <item>tuyen quang</item>
+        <item>thai nguyen</item>
+        <item>ha noi</item>
+        <item>ha tay</item>
+        <item>ha giang</item>
+        <item>hung yen</item>
+    </string-array>
+</resources>
